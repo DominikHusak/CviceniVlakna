@@ -1,0 +1,15 @@
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\bin\Debug\net6.0\VláknaCvičení.exe
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\bin\Debug\net6.0\VláknaCvičení.deps.json
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\bin\Debug\net6.0\VláknaCvičení.runtimeconfig.json
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\bin\Debug\net6.0\VláknaCvičení.dll
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\bin\Debug\net6.0\VláknaCvičení.pdb
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.csproj.AssemblyReference.cache
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.GeneratedMSBuildEditorConfig.editorconfig
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.AssemblyInfoInputs.cache
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.AssemblyInfo.cs
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.csproj.CoreCompileInputs.cache
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.dll
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\refint\VláknaCvičení.dll
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.pdb
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\VláknaCvičení.genruntimeconfig.cache
+C:\Škola\PV\Cviceni16.04.2023\VláknaCvičení\VláknaCvičení\obj\Debug\net6.0\ref\VláknaCvičení.dll
